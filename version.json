@@ -1,5 +1,10 @@
 {
-    "homepage":"https://www.curseforge.com/minecraft/mc-mods/metamorph",
+    "homepage":"https://www.curseforge.com/minecraft/mc-mods/methamorph-mod-updated-by-raxis",
+    "1.16.2":{
+        "1.16.2": "This are my updates.",
+        "1.16.1": "This are my updates.",
+        "1.16": "This are my updates.",
+    },
     "1.12.2":{
         "1.2.2": "This is a small patch that features a couple of tweaks.",
         "1.2.1": "This is a small patch that fixes some mob morph behavior (all of these fixes and tweaks were made by IndeanaJones).",
